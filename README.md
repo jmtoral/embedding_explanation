@@ -1,6 +1,6 @@
 # Embeddings & Agentes ReAct — Visualización Interactiva
 
-Aplicación web educativa para entender cómo funcionan los tokens, embeddings y agentes ReAct en sistemas RAG. Desarrollada para el equipo AIEx de The Coca-Cola Company.
+Aplicación web educativa para entender cómo funcionan los tokens, embeddings y agentes ReAct en sistemas RAG.
 
 🌐 **Demo:** https://jmtoral.github.io/embedding_explanation/
 
@@ -43,7 +43,7 @@ No hay `package.json`, bundler, transpilador ni framework. Todo corre directamen
 |---------|-------------|
 | `index.html` | Aplicación principal con 4 tabs: Embeddings, Distancia Vectorial, ReAct, Costos |
 | `app.js` | Lógica JavaScript (~550 líneas): tabs, Canvas, SVG, simulaciones async |
-| `styles.css` | Tema oscuro rojo/negro (The Coca-Cola Company), variables CSS, glassmorphism |
+| `styles.css` | Tema oscuro rojo/negro, variables CSS, glassmorphism |
 | `embeddings-react-viz.html` | Visualización alternativa standalone con ejemplos del portafolio TCCC |
 
 ## Ejecutar localmente
