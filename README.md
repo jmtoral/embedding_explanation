@@ -10,7 +10,7 @@ Aplicación web educativa para entender cómo funcionan los tokens, embeddings y
 
 | Suppliers | Inputs | Process | Outputs | Customers |
 |-----------|--------|---------|---------|-----------|
-| Google Fonts CDN | Interacciones del usuario (sliders, clics, botones) | Cálculo de métricas de compresión semántica | Visualización del funnel tokens → vector | Equipo AIEx / Coca-Cola |
+| Google Fonts CDN | Interacciones del usuario (sliders, clics, botones) | Cálculo de métricas de compresión semántica | Visualización del funnel tokens → vector | Equipo AIEx |
 | Archivos estáticos locales (`index.html`, `app.js`, `styles.css`) | Tamaño de chunk (50–1,000 tokens) | Renderizado de puntos y distancias en Canvas 2D | Gráfica de dispersión vectorial interactiva | Equipos técnicos y de negocio |
 | GitHub Pages (hosting) | Dimensiones del embedding (50–1,536) | Animación de flujo ReAct sobre SVG inline | Simulación de ciclos de razonamiento del agente | Investigadores y desarrolladores |
 | | Escenario seleccionado (chunk pequeño vs. grande) | Cálculo de costos de infraestructura (RAM, USD/mes) | Análisis de costo por escenario con medidores | |
